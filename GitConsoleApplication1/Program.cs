@@ -11,7 +11,7 @@ namespace GitConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
-            Console.Write("again");
+            Console.Write("again!");
         }
     }
 }
